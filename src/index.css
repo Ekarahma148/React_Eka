@@ -1,0 +1,23 @@
+
+h1{
+  padding: 20px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  padding-right: 50px;
+  font-size: 40px;
+}
+.profil{
+  border: 1px solid black; 
+  width: 1200px; 
+  margin: 10px; 
+  padding: 50px; 
+  display: flex;
+  text-align: center; 
+  background-color: rgb(51, 134, 116); 
+  justify-content: center;
+  justify-content: space-around;
+}
+.profil img {
+  width: 200px; 
+}
